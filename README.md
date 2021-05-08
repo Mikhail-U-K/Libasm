@@ -1,3 +1,3 @@
 # Libasm
 
-The aim of this project was to get familiar with assembly language.
+The aim of this project is to get familiar with assembly language.
